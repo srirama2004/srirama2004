@@ -1,5 +1,4 @@
-# srirama2004
- # Hi there! 👋  
+# Hi there! 👋  
 I'm **Srirama V**, a passionate developer interested in **Embedded Systems, Java, and Web Development**.  
 I love solving problems, exploring new technologies, and working on cool projects! 🚀  
 
@@ -8,17 +7,12 @@ I love solving problems, exploring new technologies, and working on cool project
 - 🖥 **Embedded C, C**  
 - ☕ **Java**  
 - 🌐 **HTML, CSS, JavaScript**  
-- 🐍 **Python (Basics)**  
+- 🐍 **Python**  
 
 ### 🛠 Frameworks & Tools  
-- ⚡ **React.js, Node.js**  
+- ⚡ **React.js, Node.js,Flask**  
 - 🔥 **Firebase, MySQL, MongoDB**  
-- 🛠 **Git, GitHub, VS Code**  
-
-### 🔌 Embedded & Hardware  
-- ⚙️ **Microcontrollers (8051, AVR, ARM)**  
-- 🔬 **Arduino, Raspberry Pi**  
-- 🏗 **IoT & Hardware Prototyping**  
+- 🛠 **Git, GitHub, VS Code**   
 
 ---
 
@@ -37,6 +31,3 @@ I love solving problems, exploring new technologies, and working on cool project
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/srirama2004)  
 
 ---
-
-💡 _"Code is like humor. When you have to explain it, it’s bad."_ 😄  
-
