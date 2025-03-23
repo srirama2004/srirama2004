@@ -36,5 +36,3 @@ I love solving problems, exploring new technologies, and working on cool project
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/srirama2004)  
 
 ---
-
-💡 _"Code is like humor. When you have to explain it, it’s bad."_ 😄  
