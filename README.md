@@ -7,7 +7,7 @@ I love solving problems, exploring new technologies, and working on cool project
 - 🖥 **Embedded C, C**  
 - ☕ **Java**  
 - 🌐 **HTML, CSS, JavaScript**  
-- 🐍 **Python (Basics)**  
+- 🐍 **Python**  
 
 ### 🛠 Frameworks & Tools  
 - ⚡ **React.js, Node.js**  
