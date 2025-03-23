@@ -10,14 +10,9 @@ I love solving problems, exploring new technologies, and working on cool project
 - 🐍 **Python**  
 
 ### 🛠 Frameworks & Tools  
-- ⚡ **React.js, Node.js**  
+- ⚡ **React.js, Node.js,Flask**  
 - 🔥 **Firebase, MySQL, MongoDB**  
-- 🛠 **Git, GitHub, VS Code**  
-
-### 🔌 Embedded & Hardware  
-- ⚙️ **Microcontrollers (8051, AVR, ARM)**  
-- 🔬 **Arduino, Raspberry Pi**  
-- 🏗 **IoT & Hardware Prototyping**  
+- 🛠 **Git, GitHub, VS Code**   
 
 ---
 
