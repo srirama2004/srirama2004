@@ -18,7 +18,6 @@ I love solving problems, exploring new technologies, and working on cool project
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srirama2004&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srirama2004&layout=compact&theme=dark)  
 
 ### 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=srirama2004&theme=radical&no-bg=true&no-frame=true)  
