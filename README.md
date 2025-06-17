@@ -18,9 +18,8 @@ I love solving problems, exploring new technologies, and working on cool project
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srirama2004&show_icons=true&theme=dark)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srirama2004&theme=dark)](https://git.io/streak-stats)
 
-### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=srirama2004&theme=radical&no-bg=true&no-frame=true)  
 
 ---
 
