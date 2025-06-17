@@ -30,3 +30,4 @@ I love solving problems, exploring new technologies, and working on cool project
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/srirama2004)  
 
 ---
+![Top Langs](https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=srirama2004&layout=pie)
