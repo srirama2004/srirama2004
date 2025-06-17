@@ -60,16 +60,6 @@
   <a href="https://www.linkedin.com/in/srirama-v-b5bb32293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/srirama2004"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
 </p>
-
----
-
-## 🎯 Goals for 2025
-- ✅ Contribute to Open Source
-- 🚀 Build more full-stack + embedded hybrid projects
-- 🛠 Improve DevOps and LLD skills
-- 📚 Write technical blogs or tutorials
-- 🌟 Land a top internship in core tech
-
 ---
 
 > 💬 _“Code like it matters, because it does.”_
