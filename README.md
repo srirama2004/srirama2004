@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:#fca311;">Srirama V</span></h1>
-<h3 align="center">🚀 Embedded Systems | 💻 Java Developer | 🌐 Web Enthusiast</h3>
 <p align="center">I love solving real-world problems, exploring new tech, and building awesome projects!</p>
 
 ---
