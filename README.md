@@ -41,15 +41,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srirama2004&theme=radical&no-bg=true&no-frame=true&column=7" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=srirama2004&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
